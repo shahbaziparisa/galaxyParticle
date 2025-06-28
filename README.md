@@ -1,5 +1,6 @@
 # 🌌 Galaxy Particle System in Three.js
-Live Demo https://galaxy.parisashahbazi.com/
+Live Demo
+https://galaxy.parisashahbazi.com/
 
 ![Galaxy Screenshot](./static/Screenshot%202025-06-28%20at%201.00.59%20PM.png)
 
@@ -32,7 +33,7 @@ You can see those private projects featured on my **portfolio website**:
 
 👉 [My Portfolio](https://parisashahbazi.com/#introduction)
 
-👉 [Another particle project] https://particle.parisashahbazi.com/
+👉 [Another particle project] (https://particle.parisashahbazi.com/)
 ![Particle Screenshot](./static/Screenshot%202025-06-28%20at%201.07.41%20PM.png)
 
 ## 🧑‍💻 Author
