@@ -1,4 +1,6 @@
 # 🌌 Galaxy Particle System in Three.js
+[Live Demo](https://galaxy.parisashahbazi.com/)
+
 ![Galaxy Screenshot](./static/Screenshot%202025-06-28%20at%201.00.59%20PM.png)
 
 This project is an experimental particle system built with [Three.js](https://threejs.org/), inspired by various tutorials I've followed. The main goal is to simulate a dynamic **galaxy-like environment** using configurable particles.

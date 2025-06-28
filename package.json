@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "vite --host",
+    "dev": "vite",
     "build": "vite build"
   },
   "dependencies": {
