@@ -1,4 +1,5 @@
 # 🌌 Galaxy Particle System in Three.js
+![Galaxy Screenshot](./static/Screenshot%202025-06-28%20at%201.00.59%20PM.png)
 
 This project is an experimental particle system built with [Three.js](https://threejs.org/), inspired by various tutorials I've followed. The main goal is to simulate a dynamic **galaxy-like environment** using configurable particles.
 
@@ -33,7 +34,6 @@ The system is rendered in real-time and responds to changes smoothly, giving a v
 You can see a preview below:
 
 ![Galaxy Screenshot](./static/Screenshot%202025-06-28%20at%201.00.06%20PM.png)
-![Galaxy Screenshot](./static/Screenshot%202025-06-28%20at%201.00.59%20PM.png)
 
 
 ## 📂 Other Particle Projects
